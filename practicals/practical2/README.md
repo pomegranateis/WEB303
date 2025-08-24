@@ -1,5 +1,7 @@
 # WEB303 Practical 2: API Gateway with Service Discovery
 
+Repository LINK: [https://github.com/pomegranateis/practical-two](https://github.com/pomegranateis/practical-two)
+
 ## Overview
 
 This practical demonstrates the implementation of a comprehensive microservices ecosystem featuring service discovery, dynamic routing, and resilience patterns. The system includes two independent microservices that register with Consul service registry and an intelligent API Gateway that dynamically routes requests based on service health and availability.
