@@ -1,4 +1,4 @@
-# Practical Three: Full-Stack Microservices Architecture
+# WEB303 Practical 3: Full-Stack Microservices Architecture
 
 ## Quick Start
 
